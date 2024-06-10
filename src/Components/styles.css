@@ -1,0 +1,94 @@
+/* styles.css */
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-Medium.ttf') format('truetype');
+    font-weight: 500; /* Medium weight */
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-SemiBold.ttf') format('truetype');
+    font-weight: 600; /* Semi-Bold weight */
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-ExtraBold.ttf') format('truetype');
+    font-weight: 800; /* Extra-Bold weight */
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-Black.ttf') format('truetype');
+    font-weight: 900; /* Black weight */
+    font-style: normal;
+  }
+  
+  /* Italic styles */
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-MediumItalic.ttf') format('truetype');
+    font-weight: 500; /* Medium weight */
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600; /* Semi-Bold weight */
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800; /* Extra-Bold weight */
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Playfair Display';
+    src: url('../Fonts/PlayfairDisplay-BlackItalic.ttf') format('truetype');
+    font-weight: 900; /* Black weight */
+    font-style: italic;
+  }
+
+  body {
+    margin:0;
+    padding:0;
+    font-family: 'Playfair Display', serif;
+    /* Use the font-family property to apply the font to specific elements */
+  }
